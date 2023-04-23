@@ -1,3 +1,5 @@
+-- Link to Tableau Public Dashboard -> https://public.tableau.com/app/profile/selim.can/viz/CovidDashboard_16764896991730/Dashboard1 
+
 select * from CovidDeaths
 order by 3,4
 
